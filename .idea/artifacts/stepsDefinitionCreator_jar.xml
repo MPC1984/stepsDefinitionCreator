@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="stepsDefinitionCreator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/stepsDefinitionCreator_jar</output-path>
+    <root id="archive" name="stepsDefinitionCreator.jar">
+      <element id="module-output" name="stepsDefinitionCreator" />
+    </root>
+  </artifact>
+</component>
